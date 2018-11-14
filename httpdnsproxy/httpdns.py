@@ -237,7 +237,7 @@ class udpdnsserver(object):
         self.udpfd.sendto(Rdata, self.addr)
 
 if __name__ == '__main__':
-    localserver=udpdnsserver(addr='127.128.129.130',port=5453)
+    localserver=udpdnsserver(addr='127.128.129.130',port=53)
     dnspod=httpdns(ednsip='');#ednsip='211.140.188.188')
     ipprefix=iptool()
     while 1:

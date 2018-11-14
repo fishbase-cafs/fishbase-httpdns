@@ -1,0 +1,14 @@
+<service>
+  <id>httpdns</id>
+  <name>HTTPDNS Service</name>
+  <description>HTTP DNS Service</description>
+  <logpath>D:\LocalHttpDNS\logs</logpath>
+  <log mode="roll-by-size">
+    <sizeThreshold>10240</sizeThreshold>
+    <keepFiles>8</keepFiles>
+  </log>
+  <executable>D:\LocalHttpDNS\start.bat</executable>
+  <startarguments></startarguments>
+  <stopexecutable>D:\LocalHttpDNS\stop.bat</stopexecutable>
+  <stoparguments></stoparguments>
+</service>

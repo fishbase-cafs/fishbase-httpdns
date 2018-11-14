@@ -1,0 +1,15 @@
+2018-11-14 10:18:08,586 INFO  - Starting ServiceWrapper in the service mode
+2018-11-14 10:18:12,122 DEBUG - Starting ServiceWrapper in the CLI mode
+2018-11-14 10:18:15,734 DEBUG - Starting ServiceWrapper in the CLI mode
+2018-11-14 10:18:16,853 INFO  - Installing the service with id 'httpdns'
+2018-11-14 10:18:16,997 DEBUG - Completed. Exit code is 0
+2018-11-14 10:18:36,212 INFO  - Starting ServiceWrapper in the service mode
+2018-11-14 10:18:36,486 INFO  - Starting D:\LocalHttpDNS\Python3.5\pyhttpdns.exe 
+2018-11-14 10:18:36,526 INFO  - Starting D:\LocalHttpDNS\Python3.5\pyhttpdns.exe 
+2018-11-14 10:18:36,564 INFO  - Started process 9912
+2018-11-14 10:18:36,617 DEBUG - Forwarding logs of the process System.Diagnostics.Process (pyhttpdns) to winsw.SizeBasedRollingLogAppender
+2018-11-14 10:21:58,440 INFO  - Starting ServiceWrapper in the service mode
+2018-11-14 10:21:58,461 INFO  - Starting D:\LocalHttpDNS\start.bat 
+2018-11-14 10:21:58,464 INFO  - Starting D:\LocalHttpDNS\start.bat 
+2018-11-14 10:21:58,474 INFO  - Started process 10164
+2018-11-14 10:21:58,478 DEBUG - Forwarding logs of the process System.Diagnostics.Process (cmd) to winsw.SizeBasedRollingLogAppender
